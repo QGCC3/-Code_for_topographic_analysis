@@ -152,7 +152,7 @@ ta=table(sites,SiteArea,PansArea,PansElevation,SaltmarshArea,...
 % Save the topographyic information table in excel
 writetable(ta,'topogtaphy.xlsx')
 
-%% Sub-environment image display: Saltmarsh (vegatated platform) 
+%% Sub-environment image display: Saltmarsh (vegetated platform) 
 
 figure;
 t = tiledlayout(2,4);
